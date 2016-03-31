@@ -1,0 +1,30 @@
+li {
+	list-style: none;
+	// border: 1px solid black;
+	border-bottom: none;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+article {
+	background-color: $backgroundColor;
+	width: $articleWidth;
+	border: 1px solid #DBDBDB;
+	border-radius: 25px;
+
+
+}
+
+img {
+	height: $imgHeight;
+	border-radius: 25%;
+	vertical-align: middle;
+	padding: 10px;
+}
+p{
+	font-size: 60px;
+	color: $fontColor;
+	padding: 0 10px 0px 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
